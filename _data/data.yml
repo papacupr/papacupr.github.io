@@ -37,97 +37,55 @@ education:
         university: University of Copenhagen - Niels Bohr Insitute 
         time: 2021 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+       
       - degree: BSc in Physics and BSc in Mathematics
         university: Oregon State University
         time: 2017 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Pulsar Timing Array Researcher 
+        time: 2020 - 2021 
+        company: Oregon State University 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+           Recreated various pulsar gravitational waves in Matlab to better understand how different NASA solar system models
+           would affect specific variables in PTA science. 
+          
+      - role: Math Learning Center Tutor and Learning Assistant 
+        time: 2018 - 2021 
+        company: Oregon State University 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Tutored 30+ students a week in Algebra, Calculus, Linear Algebra, 
+          Trigonometry, Modern Algebra, and Analysis. Planned and created lessons for individual students, sat in during lectures
+          to provide insights and additional resources. 
+      - role: Incompressible Navier-Stokes Researcher
+        time: 2019 - 2020
+        company: Oregon State University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. Developed a method for solving the equations 
+          for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
+      - title: Electron Classification, Regression, and Clustering 
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Convolutional Neural Network Chess Engine 
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Self-organization and pattern formation in ecosystems: Warning sign or sign of resilience?
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
       - title: Effect of Solar System Models on Pulsar Timing Experiments
         link: "#"
@@ -135,11 +93,6 @@ publications:
         conference:
 
       - title: Defining the Reisz Transformation on the Unit Circle using a Neumann Boundary Value Problem 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title:
         link: "#"
         authors: 
         conference: 
