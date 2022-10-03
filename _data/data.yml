@@ -24,10 +24,28 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: # 19071056/coopernicolaysen, e.g. 123456/alandoe
+    stack-overflow: # 19071056/cooper-nicolaysen, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Taking care of my cats
+          link:
+
+        - item: Rock climbing 
+          link:
+
+        - item: Coffee making 
+          link:
 
 
 education:
@@ -38,12 +56,15 @@ education:
         time: 2021 - 2022
         details: |
          Relevant coursework - Applied Machine Learning
+         Thesis objective: Machine learning on 2D satellite imagery and theoretical frameworks for vegetation analysis
+
        
       - degree: BSc in Physics and BSc in Mathematics
         university: Oregon State University
         time: 2017 - 2021
         details: |
          Relevant coursework - Applied Computing 2, Computational Physics 1-3
+         Thesis objective: Data analysis through Python and Matlab to analyze NASA solar system models
 
         
 experiences:
@@ -69,21 +90,22 @@ experiences:
         details: |
           Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. Developed a method for solving the equations 
           for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
+          
 projects:
     title: Projects
     intro: 
     assignments:
       - title: Electron Classification, Regression, and Clustering 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures."
 
       - title: Convolutional Neural Network Chess Engine 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move." 
 
       - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Classificaiton of various vegetation patterns." 
 
 
 publications:
@@ -110,7 +132,7 @@ skills:
       - name: Mathematicaa, MatLab, Latex, Excel
         level: 80%
 
-      - name: Tableau, SQL, MongoDB, Salesforce
+      - name: Tableau, SQL, MongoDB, Salesforce, Einstein 
         level: 50%
 
 footer: 
