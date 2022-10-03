@@ -35,22 +35,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
@@ -65,9 +65,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Quantum Mechanics: Particle Physics and Cosmology
+        university: University of Copenhagen - Niels Bohr Insitute 
+        time: 2021 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +76,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Physics and BSc in Mathematics
+        university: Oregon State University
+        time: 2017 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -161,20 +161,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Effect of Solar System Models on Pulsar Timing Experiments
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference:
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Defining the Reisz Transformation on the Unit Circle using a Neumann Boundary Value Problem 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title:
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
