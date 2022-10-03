@@ -76,22 +76,22 @@ experiences:
         time: 2020 - 2021 
         company: Oregon State University 
         details: |
-           Recreated various pulsar gravitational waves in Matlab to better understand how different NASA solar system models
-           would affect specific variables in PTA science. 
-          
+           - Recreated pulsars gravitational waves in Matlab to understand how different NASA solar system models would affect specific variables used in Pulsar Timing Arrays.
+           - Created plots using Python to graphically understand the patterns formed, relating them to previously known laws on gravitational wave frequency ranges 
+           - Presented to peers using Latex to write the thesis and separate presentation
       - role: Math Learning Center Tutor and Learning Assistant 
         time: 2018 - 2021 
         company: Oregon State University 
         details: |
-          Tutored 30+ students a week in Algebra, Calculus, Linear Algebra, 
-          Trigonometry, Modern Algebra, and Analysis. Planned and created lessons for individual students, sat in during lectures
-          to provide insights and additional resources. 
+         -Tutored 30+ students a week in Algebra, Calculus, Linear Algebra, Trigonometry, Modern Algebra, and Analysis. 
+         -Planned and created lessons for individual students to specialize their learning as well as sit in during lectures to provide insights and additional resources alongside the professor. 
+         -Organized with other assistants to develop a better curriculum to maximize the pedagogical value for each student. 
       - role: Incompressible Navier-Stokes Researcher
         time: 2019 - 2020
         company: Oregon State University
         details: |
-          Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. Developed a method for solving the equations 
-          for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
+          -Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. 
+          -Developed a method for solving the equations for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
           
 projects:
     title: Projects
