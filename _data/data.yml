@@ -77,8 +77,8 @@ experiences:
         company: Oregon State University 
         details: |
            - Recreated pulsars gravitational waves in Matlab to understand how different NASA solar system models would affect specific variables used in Pulsar Timing Arrays.
-           - Created plots using Python to graphically understand the patterns formed, relating them to previously known laws on gravitational wave frequency ranges 
-           - Presented to peers using Latex to write the thesis and separate presentation
+           - Created plots using Python to graphically understand the patterns formed, relating them to previously known laws on gravitational wave frequency ranges.
+           - Presented to peers using Latex to write the thesis and separate presentation.
       - role: Math Learning Center Tutor and Learning Assistant 
         time: 2018 - 2021 
         company: Oregon State University 
