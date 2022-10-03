@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 19071056/cooper-nicolaysen
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: https://docs.google.com/document/d/1FsYD3KGeWvjNDuB-uvMVI14SliB-8AXbUCdEpJcMPlI/edit?usp=sharing
 
     languages:
       title: Languages
@@ -60,7 +60,7 @@ education:
          Thesis objective: Machine learning on 2D satellite imagery and theoretical frameworks for vegetation analysis
 
        
-      - degree: BSc in Physics and BSc in Mathematics
+      - degree: BS in Physics and BS in Mathematics
         university: Oregon State University
         time: 2017 - 2021
         details: |
@@ -115,12 +115,12 @@ publications:
     intro:
     papers:
       - title: Effect of Solar System Models on Pulsar Timing Experiments
-        link: "#"
+        link: "[]()"
         authors: 
         conference:
 
       - title: Defining the Reisz Transformation on the Unit Circle using a Neumann Boundary Value Problem 
-        link: "#"
+        link: "[]()"
         authors: 
         conference: 
 
