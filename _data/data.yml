@@ -83,15 +83,15 @@ experiences:
         time: 2018 - 2021 
         company: Oregon State University 
         details: |
-         -Tutored 30+ students a week in Algebra, Calculus, Linear Algebra, Trigonometry, Modern Algebra, and Analysis. 
-         -Planned and created lessons for individual students to specialize their learning as well as sit in during lectures to provide insights and additional resources alongside the professor. 
-         -Organized with other assistants to develop a better curriculum to maximize the pedagogical value for each student. 
+           - Tutored 30+ students a week in Algebra, Calculus, Linear Algebra, Trigonometry, Modern Algebra, and Analysis. 
+           - Planned and created lessons for individual students to specialize their learning as well as sit in during lectures to provide insights and additional resources alongside the professor. 
+           - Organized with other assistants to develop a better curriculum to maximize the pedagogical value for each student. 
       - role: Incompressible Navier-Stokes Researcher
         time: 2019 - 2020
         company: Oregon State University
         details: |
-          -Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. 
-          -Developed a method for solving the equations for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
+           - Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. 
+           - Developed a method for solving the equations for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
           
 projects:
     title: Projects
