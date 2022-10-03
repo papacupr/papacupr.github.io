@@ -99,15 +99,15 @@ projects:
     assignments:
       - title: Electron Classification, Regression, and Clustering 
         link: "#hook"
-        tagline: "Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures."
+        details: "Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures."
 
       - title: Convolutional Neural Network Chess Engine 
         link: "#"
-        tagline: "CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move." 
+        details: "CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move." 
 
       - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
         link: "#"
-        tagline: "Classificaiton of various vegetation patterns." 
+        details: "Classificaiton of various vegetation patterns." 
 
 
 publications:
