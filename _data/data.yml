@@ -77,8 +77,8 @@ projects:
     intro: 
     assignments:
       - title: Electron Classification, Regression, and Clustering 
-        link: "https://github.com/papacupr/AppliedMachineLearning"
-        details: Electron signature 
+        link: "https://github.com/papacupr/AppliedMachineLearningElectronProject"
+        details: 
 
       - title: Convolutional Neural Network Chess Engine 
         link: "https://github.com/papacupr/AppliedMachineLearning"
