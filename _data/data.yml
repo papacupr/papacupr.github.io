@@ -81,7 +81,7 @@ projects:
         details: 
 
       - title: Convolutional Neural Network Chess Engine 
-        link: "https://github.com/papacupr/AppliedMachineLearning"
+        link: "https://github.com/papacupr/AppliedMachineLearningChessProject"
         details: CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move.
 
       - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
