@@ -67,8 +67,40 @@ education:
          Relevant coursework - Applied Computing 2, Computational Physics 1-3
          
          Thesis objective: Data analysis through Python and Matlab to analyze NASA solar system models
+         
+         
+                   
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Electron Classification, Regression, and Clustering 
+        link: "https://github.com/papacupr/AppliedMachineLearning"
+        details: Electron signature 
 
+      - title: Convolutional Neural Network Chess Engine 
+        link: "https://github.com/papacupr/AppliedMachineLearning"
+        details: "CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move." 
+
+      - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
+        link: "https://github.com/papacupr/NBIMastersThesis"
+        details: "Classificaiton of various vegetation patterns." 
         
+publications:
+    title: Publications
+    intro:
+    papers:
+      - title: Effect of Solar System Models on Pulsar Timing Experiments
+        link: "https://ir.library.oregonstate.edu/concern/undergraduate_thesis_or_projects/8336h855f?locale=en"
+        authors: 
+        conference:
+
+      - title: Defining the Reisz Transformation on the Unit Circle using a Neumann Boundary Value Problem 
+        link: "https://ir.library.oregonstate.edu/concern/defaults/5138jn86x?locale=en"
+        authors: 
+        conference: 
+
+
 experiences:
     title: Experiences
     info:
@@ -92,38 +124,8 @@ experiences:
         details: |
            - Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. 
            - Developed a method for solving the equations for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
-          
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Electron Classification, Regression, and Clustering 
-        link: "https://github.com/papacupr/AppliedMachineLearning"
-        details: |
-            Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures.
-
-      - title: Convolutional Neural Network Chess Engine 
-        link: "https://github.com/papacupr/AppliedMachineLearning"
-        details: "CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move." 
-
-      - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
-        link: "https://github.com/papacupr/NBIMastersThesis"
-        details: "Classificaiton of various vegetation patterns." 
 
 
-publications:
-    title: Publications
-    intro:
-    papers:
-      - title: Effect of Solar System Models on Pulsar Timing Experiments
-        link: "https://ir.library.oregonstate.edu/concern/undergraduate_thesis_or_projects/8336h855f?locale=en"
-        authors: 
-        conference:
-
-      - title: Defining the Reisz Transformation on the Unit Circle using a Neumann Boundary Value Problem 
-        link: "https://ir.library.oregonstate.edu/concern/defaults/5138jn86x?locale=en"
-        authors: 
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
@@ -137,5 +139,8 @@ skills:
 
       - name: Tableau, SQL, MongoDB, Salesforce, Einstein 
         level: 50%
+        
+      - name: Problem Solving
+        level: 80% 
 
 footer: 
