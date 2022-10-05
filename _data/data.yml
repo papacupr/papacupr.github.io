@@ -60,7 +60,7 @@ education:
         details: |
          Relevant coursework - Applied Machine Learning
          
-         Thesis objective: Machine learning on 2D satellite imagery and theoretical frameworks for vegetation analysis
+         Thesis objective: Machine learning on 2D satellite imagery and theoretical frameworks for vegetation analysis.
 
        
       - degree: BS in Physics and BS in Mathematics
@@ -107,11 +107,11 @@ projects:
 
       - title: Convolutional Neural Network Chess Engine 
         link: "https://github.com/papacupr/AppliedMachineLearningChessProject"
-        details: CNN model using stockfish evaluations and 3-dimensional chessboards as the input, uses Mini-Max Algorithm to choose best move.
+        details: 
 
       - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
         link: "https://github.com/papacupr/NBIMastersThesis"
-        details: Classificaiton of various vegetation patterns.
+        details:
         
 publications:
     title: Publications
@@ -126,9 +126,6 @@ publications:
         link: "https://ir.library.oregonstate.edu/concern/defaults/5138jn86x?locale=en"
         authors: 
         conference: 
-
-
-
 
 skills:
     title: Skills &amp; Proficiency
