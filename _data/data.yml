@@ -4,7 +4,7 @@
 
 sidebar:
     about: False  # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True  # set to False if you want education in main section instead of in sidebar
+    education: False  # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Cooper Nicolaysen 
@@ -38,13 +38,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Taking care of my cats
+        - item: Data Analytics and Modelling  
           link:
 
-        - item: Rock climbing 
+        - item: Machine Learning and Artificial Intelligence 
           link:
 
-        - item: Coffee making 
+        - item: Applied Physics and Mathematics  
           link:
 
 
@@ -99,7 +99,8 @@ projects:
     assignments:
       - title: Electron Classification, Regression, and Clustering 
         link: "https://github.com/papacupr/AppliedMachineLearning"
-        details: "Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures."
+        details: |
+            Attempting to classify LHC data as electrons, use regression to find their energies, and cluster particle signatures.
 
       - title: Convolutional Neural Network Chess Engine 
         link: "https://github.com/papacupr/AppliedMachineLearning"
