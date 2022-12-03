@@ -4,7 +4,7 @@
 
 sidebar:
     about: False  # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False  # set to False if you want education in main section instead of in sidebar
+    education: True  # set to False if you want education in main section instead of in sidebar
     projects: True 
 
     # Profile information
@@ -48,7 +48,7 @@ sidebar:
         - item: Applied Physics and Mathematics  
           link:
           
-        - item: Salesforce / Einstein 
+       
 
 
 education:
@@ -134,13 +134,7 @@ skills:
       - name: Python & Machine Learning APIs
         level: 70%
 
-      - name: Mathematicaa, MatLab, Latex, Excel
+      - name: Mathematica, MatLab, Latex, Excel
         level: 80%
-
-      - name: Tableau, SQL, MongoDB, Salesforce, Einstein 
-        level: 50%
         
-      - name: Problem Solving
-        level: 80% 
-
 footer: 
