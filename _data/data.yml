@@ -49,7 +49,21 @@ sidebar:
           link:
           
        
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Electron Classification, Regression, and Clustering 
+        link: "https://github.com/papacupr/AppliedMachineLearningElectronProject"
+        details: 
 
+      - title: Convolutional Neural Network Chess Engine 
+        link: "https://github.com/papacupr/AppliedMachineLearningChessProject"
+        details: 
+
+      - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
+        link: "https://github.com/papacupr/NBIMastersThesis"
+        details: 
 
 education:
     title: Education
@@ -96,22 +110,7 @@ experiences:
            - Understood derivation and simplifications of the 3-dimensional incompressible Navier-Stokes equations. 
            - Developed a method for solving the equations for a simplified case in 2-dimensions using Fourier transforms, differential equations, and vector calculus. 
          
-                   
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Electron Classification, Regression, and Clustering 
-        link: "https://github.com/papacupr/AppliedMachineLearningElectronProject"
-        details: 
-
-      - title: Convolutional Neural Network Chess Engine 
-        link: "https://github.com/papacupr/AppliedMachineLearningChessProject"
-        details: 
-
-      - title: Self-organization and pattern formation in ecosystems - Warning sign or sign of resilience?
-        link: "https://github.com/papacupr/NBIMastersThesis"
-        details: 
+                 
         
 publications:
     title: Publications
@@ -127,14 +126,5 @@ publications:
         authors: 
         conference: 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Machine Learning APIs
-        level: 70%
-
-      - name: Mathematica, MatLab, Latex, Excel
-        level: 80%
-        
 footer: 
